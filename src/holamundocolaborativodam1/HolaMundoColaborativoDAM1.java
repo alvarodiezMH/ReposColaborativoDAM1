@@ -19,6 +19,7 @@ public class HolaMundoColaborativoDAM1 {
 // comentario de prueba
         System.out.println("Hola Mundo - Alvaro");
         System.out.println("Hola Mundo - Daniel Dehesa");
+        System.out.println("Hola Mundo - Eduardo Delgado");
     }
     
 }
