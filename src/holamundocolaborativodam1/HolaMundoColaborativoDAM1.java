@@ -17,7 +17,7 @@ public class HolaMundoColaborativoDAM1 {
     public static void main(String[] args) {
         // TODO code application logic here
 // comentario de prueba
-        
+        System.out.println("Hola Mundo - Alvaro");
     }
     
 }
