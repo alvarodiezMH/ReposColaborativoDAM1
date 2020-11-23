@@ -21,6 +21,7 @@ public class HolaMundoColaborativoDAM1 {
         System.out.println("Hola Mundo - Daniel Dehesa");
         System.out.println("Hola Mundo - Eduardo Delgado");
         System.out.println("Hola Mundo - Adrian Gomez");
+        System.out.println("Hola Mundo - Hector Sanchez");
     }
     
 }
